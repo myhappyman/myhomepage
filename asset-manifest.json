@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/myhomepage/static/css/main.bc9f2385.css",
-    "main.js": "/myhomepage/static/js/main.6b08bb80.js",
+    "main.css": "/myhomepage/static/css/main.8f412172.css",
+    "main.js": "/myhomepage/static/js/main.538402f7.js",
     "static/media/GowunBatang-Regular.ttf": "/myhomepage/static/media/GowunBatang-Regular.5bb8c474edafaa216ee7.ttf",
     "static/media/NotoSerifKR-Regular.otf": "/myhomepage/static/media/NotoSerifKR-Regular.6cb3e84453a03291cf4b.otf",
     "static/media/NotoSansKR-Regular.otf": "/myhomepage/static/media/NotoSansKR-Regular.457762eaaf7bb2aa2893.otf",
@@ -19,11 +19,11 @@
     "static/media/GroupBy.jpg": "/myhomepage/static/media/GroupBy.a5d69e6aeedb93ad8042.jpg",
     "static/media/jQueryClick.jpg": "/myhomepage/static/media/jQueryClick.f9f79c78226370dd6666.jpg",
     "index.html": "/myhomepage/index.html",
-    "main.bc9f2385.css.map": "/myhomepage/static/css/main.bc9f2385.css.map",
-    "main.6b08bb80.js.map": "/myhomepage/static/js/main.6b08bb80.js.map"
+    "main.8f412172.css.map": "/myhomepage/static/css/main.8f412172.css.map",
+    "main.538402f7.js.map": "/myhomepage/static/js/main.538402f7.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc9f2385.css",
-    "static/js/main.6b08bb80.js"
+    "static/css/main.8f412172.css",
+    "static/js/main.538402f7.js"
   ]
 }
