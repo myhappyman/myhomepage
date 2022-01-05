@@ -1,12 +1,9 @@
 {
   "files": {
-    "main.css": "/myhomepage/static/css/main.8f412172.css",
+    "main.css": "/myhomepage/static/css/main.95960441.css",
     "main.js": "/myhomepage/static/js/main.538402f7.js",
     "static/media/GowunBatang-Regular.ttf": "/myhomepage/static/media/GowunBatang-Regular.5bb8c474edafaa216ee7.ttf",
-    "static/media/NotoSerifKR-Regular.otf": "/myhomepage/static/media/NotoSerifKR-Regular.6cb3e84453a03291cf4b.otf",
     "static/media/NotoSansKR-Regular.otf": "/myhomepage/static/media/NotoSansKR-Regular.457762eaaf7bb2aa2893.otf",
-    "static/media/NanumMyeongjo-Regular.ttf": "/myhomepage/static/media/NanumMyeongjo-Regular.9f891674ebfc94b7664c.ttf",
-    "static/media/Hahmlet-VariableFont_wght.ttf": "/myhomepage/static/media/Hahmlet-VariableFont_wght.b55ec71f8003874233d9.ttf",
     "static/media/Jua-Regular.ttf": "/myhomepage/static/media/Jua-Regular.3d6db8475b7c70332801.ttf",
     "static/media/myPortfolio.png": "/myhomepage/static/media/myPortfolio.8aaa9595f693ef28d270.png",
     "static/media/knvd.png": "/myhomepage/static/media/knvd.a2ac5fd4e7df1833bd62.png",
@@ -19,11 +16,11 @@
     "static/media/GroupBy.jpg": "/myhomepage/static/media/GroupBy.a5d69e6aeedb93ad8042.jpg",
     "static/media/jQueryClick.jpg": "/myhomepage/static/media/jQueryClick.f9f79c78226370dd6666.jpg",
     "index.html": "/myhomepage/index.html",
-    "main.8f412172.css.map": "/myhomepage/static/css/main.8f412172.css.map",
+    "main.95960441.css.map": "/myhomepage/static/css/main.95960441.css.map",
     "main.538402f7.js.map": "/myhomepage/static/js/main.538402f7.js.map"
   },
   "entrypoints": [
-    "static/css/main.8f412172.css",
+    "static/css/main.95960441.css",
     "static/js/main.538402f7.js"
   ]
 }
